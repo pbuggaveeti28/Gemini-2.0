@@ -43,7 +43,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className="bottom-info">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, harum, facilis debitis assumenda ratione obcaecati at nisi officiis vitae consequuntur excepturi quia quaerat minus omnis illo quam dignissimos molestiae blanditiis.
+                    This is a Gemini Clone built using React and Gemini API Integration
                 </p>
             </div>
         </div>
